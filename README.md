@@ -1,25 +1,56 @@
 ## Hey there 👋
-
 <!--
 **SonnyMat/SonnyMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm Sonia Matysiak, a cybersecurity junior based in Poland, Warsaw. 
-Zaczynam swoją przygodę w SOC, eksplorując świat SIEM-ów, alertów i logów, które (podobno) mówią więcej, niż widać na pierwszy rzut oka.
-Tworzę własne projekty, testuję nowe narzędzia, rozkładam rzeczy na czynniki pierwsze i staram się zrozumieć cyberbezpieczeństwo w ludzki, logiczny sposób — nie tylko „jak”, ale dlaczego.
-Uczę się szybko, działam wyobraźnią i nie boję się eksperymentów (nawet jeśli czasem coś się spali 🔥).
-Studiuję Cyberbezpieczeństwo w PJATK w Warszawie, a po godzinach:
-🧩 rozwiązuję pokoje na TryHackMe
-🎥 uczę się z YouTube’a (CTF, SOC, incident response)
-🧠 zamieniam teorię w praktykę
-📈 Still learning, still curious — one alert at a time.
+# 👋 Hi, I'm Sonia Matysiak
 
-How to reach me? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonia-matysiak-840983299/)
+🛡️ **Cybersecurity Junior | SOC & SIEM**  
+📍 Warsaw, Poland
 
-I starting my projects but soon there are some gonna be here and also write-ups 
+I'm a cybersecurity junior starting my journey in **SOC**, exploring the world of **SIEMs**, alerts, and logs that (apparently) say more than meets the eye.
 
-## **Tools and Tech 👋**
+I create my own **projects**, test new tools, break things into smaller pieces, and try to understand cybersecurity in a **human, logical way** — not only *how* things work, but *why*.
+
+I learn fast, use my imagination, and I’m not afraid to experiment (even if something occasionally catches fire 🔥).
+
+🎓 Studying **Cybersecurity at PJATK (Polish-Japanese Academy of Information Technology) in Warsaw**  
+⏱️ After hours:
+- 🧩 Solving rooms on **TryHackMe**
+- 🎥 Learning from **YouTube** (CTF, SOC, Incident Response)
+- 🧠 Turning theory into practice
+
+📈 *Still learning, still curious — one alert at a time.*
+
+---
+
+## 🔗 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonia-matysiak-840983299/)
+
+---
+
+## 🚧 Projects & Write-ups
+
+I’m currently starting my projects — repositories and write-ups will appear here soon 👀  
+Stay tuned.
+
+---
+
+## 🛠️ Tools and Tech 👋
+*(learning & expanding)*
+
+- SIEM (basics)
+- SOC fundamentals
+- Linux
+- Networking basics
+- Incident Response (intro)
+- TryHackMe labs
+
+---
+
+## ✨ Fun facts about me
+
+- 🐕 I have a dog named **Joda**
+- 🔥 Anime: currently **Jujutsu Kaisen S3** `(⌐■_■) ✨`, but **Naruto** is forever in my heart
+- ⛰️ Dreaming about camping in the **Alps**
 
 
-Fun facts about me:
-🐕 I have a dog, named Joda
-🔥 Anime: now on Jujutsu Kaisen s3 (⌐■_■) ✨, but **Naruto** is in my heart 
-⛰️ I would like to visit Alps for camping
