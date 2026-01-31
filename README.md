@@ -27,7 +27,9 @@ I learn fast, use my imagination, and I’m not afraid to experiment (even if so
 ---
 
 ### 🧠 TryHackMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/soniac.png)](https://tryhackme.com/p/soniac)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme)](https://tryhackme.com/p/soniac)
+
 
 ---
 
