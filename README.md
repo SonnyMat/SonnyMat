@@ -26,6 +26,11 @@ I learn fast, use my imagination, and I’m not afraid to experiment (even if so
 
 ---
 
+### 🧠 TryHackMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/soniac.png)](https://tryhackme.com/p/soniac)
+
+---
+
 ## 🚧 Projects & Write-ups
 
 I’m currently starting my projects — repositories and write-ups will appear here soon 👀  
