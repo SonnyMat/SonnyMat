@@ -8,7 +8,6 @@ I'm a cybersecurity junior starting my journey in **SOC**, exploring the world o
 
 I create my own **projects**, test new tools, break things into smaller pieces, and try to understand cybersecurity in a **human, logical way** — not only *how* things work, but *why*.
 
-I learn fast, use my imagination, and I’m not afraid to experiment (even if something occasionally catches fire 🔥).
 
 🎓 Studying **Cybersecurity at PJATK (Polish-Japanese Academy of Information Technology) in Warsaw**  
 ⏱️ After hours:
